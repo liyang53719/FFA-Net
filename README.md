@@ -90,4 +90,8 @@ train network on `OTS` dataset
 <img src="net/test_imgs/1400_2.png" height="306px" width='413px'> 
 <img src='net/pred_FFA_its/1400_2_FFA.png' height="306px" width='413px' >
 
+<p align='center'>
+<img src="net/test_imgs/AM_Bing_142.jpeg" height="306px" width='413px'> 
+<img src='net/pred_FFA_its/AM_Bing_142_FFA.png' height="306px" width='413px' >
+ 
 </div>
